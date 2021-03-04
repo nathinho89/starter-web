@@ -16,4 +16,4 @@ This is the deployment stage
 
 ## How To Contribute
 
-Clone this repo, create a new branch then request a merge
+Clone this repo, create a new branch then request a merge.
