@@ -15,3 +15,5 @@ The purpose is what's started in the initial heading
 This is the deployment stage
 
 ## How To Contribute
+
+Clone this repo, create a new branch then request a merge
